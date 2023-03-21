@@ -1,10 +1,14 @@
+<div align="right">
+<img src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif" align="right"width:100%" />
+
+</div>
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+</div>   
   
 
 ### <div align="center">I'm Arjun,  
-A tech-savvy passionate about AI/ML and Web Dev 👨‍💻
+A tech-savvy passionate about AI/ML, IoT and Web Dev 👨‍💻
 + 🎓 CS undergrad at CET Trivandrum</div>  
   
 
@@ -101,8 +105,6 @@ A tech-savvy passionate about AI/ML and Web Dev 👨‍💻
 <br/>  
 
 
-## Recent Blog Posts  
-  
 
 <br/>  
 
