@@ -12,13 +12,11 @@ A tech-savvy passionate about AI/ML, IoT and Web Dev 👨‍💻
 + 🎓 CS undergrad at CET Trivandrum</div>  
   
 
-- 🔭 I’m currently working on [Netflix Clone using React]()  
+- 🔭 I’m currently lost in the world of LLMs  
+   
   
 
-- 🌱 I’m currently learning MERN stack  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to ML and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
