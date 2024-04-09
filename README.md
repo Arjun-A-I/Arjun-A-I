@@ -61,13 +61,6 @@ A tech-savvy passionate about AI/ML, IoT and Web Dev 👨‍💻
 <br/>  
 
 
-
-<br/>  
-
-  
-
-<br/>  
-
   
 
 <br/>  
